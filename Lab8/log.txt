@@ -1,0 +1,1 @@
+HelloWorldtesttesting function with literal constanttesting function with named constant
