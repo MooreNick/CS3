@@ -1,1 +1,2 @@
-My lab work for Computer Science III at Kent State University. This course was taught by Dr. Mikhail Nesterenko, I received either perfect or near perfect for all of these assignments.
+My lab work for Computer Science III (CS3) at Kent State University. This course was taught by Dr. Mikhail Nesterenko, I received either perfect or near perfect for all of these assignments. 
+Side Note: CS3 is the final course in the CS sequence (1-3), and the CS sequence has the highest fail rate in the CS program. Therefore, these are thought to be the most diffcult/advanced labs completed in the entire program.
